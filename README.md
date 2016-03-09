@@ -1,1 +1,1 @@
-Visit this site at https://aeharding.github.io/status.financier.io/
+Visit this site at https://status.financier.io
